@@ -32,10 +32,6 @@ class vector{
   }
 }
 
-while (true){
-  alert("amogus")
-}
-
 class screen{
   constructor(Size){
     this.Size = Size
